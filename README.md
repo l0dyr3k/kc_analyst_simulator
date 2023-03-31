@@ -1,4 +1,4 @@
-# kc-analyst-simulator
+# kc_analyst_simulator
 
 Привет! В этом репозитории находятся решения всех задач с курса "Симулятор аналитика" от [KARPOV.COURSES](https://karpov.courses)
 
